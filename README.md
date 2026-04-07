@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction System
+# ❤️ Project 1: Heart Disease Prediction System
 
 ## 📌 Overview  
 This project is a machine learning-based system that predicts the likelihood of heart disease in a patient using medical attributes. It helps in early detection and supports better clinical decision-making.
